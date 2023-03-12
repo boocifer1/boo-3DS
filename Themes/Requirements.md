@@ -4,7 +4,7 @@ Requires
 • Anemone
 • Luma3DS
 
-First, download the .zip.
+First, download the .zip. You can do that by clicking [this.](https://github.com/boocifer1/boo-3DS/blob/main/Themes/BoociferTheCatTheme.zip?raw=true)
 
 Then, take out the SD card of your 3DS. (May require a external microSD card reader, but you know that)
 
