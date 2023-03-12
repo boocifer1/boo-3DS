@@ -1,4 +1,4 @@
-Boo 3DS Theme
+# Boo 3DS Theme
 
 Requires
 • Anemone
